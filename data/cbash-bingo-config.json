@@ -1,0 +1,32 @@
+{
+    "warp_rooms": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "game_types": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+    ],
+    "bosses": true,
+    "collectibles": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "excluded_levels": [
+		"example"
+    ],
+    "included_levels": [
+		"example"
+    ]
+}
